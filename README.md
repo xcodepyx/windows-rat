@@ -56,4 +56,4 @@ WALLETS + PLUGINS
 - Kucoin
 - BingX
 - Gate
-- - Over 60 plug-ins
+- Over 60 plug-ins
