@@ -1,6 +1,5 @@
 ![alt text](https://github.com/user-attachments/assets/5f340711-7a62-4a00-aa7a-956a90dc2b39)
-<img src="[https://your-image-url](https://github.com/user-attachments/assets/5f340711-7a62-4a00-aa7a-956a90dc2b39)" width="100" height="100">
-
+<img src="https://github.com/user-attachments/assets/5f340711-7a62-4a00-aa7a-956a90dc2b39" width="100" height="100">
 # windows-rat  
 A stronger windows rat you can find on the market  
 website: https://xcodepyx.com/  
