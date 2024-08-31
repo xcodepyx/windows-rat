@@ -1,5 +1,9 @@
+(https://github.com/user-attachments/assets/5f340711-7a62-4a00-aa7a-956a90dc2b39)
+
 # windows-rat
 A stronger windows rat you can find on the market
+website: https://xcodepyx.com/
+TG : @codepyx
 
 xcodepyx windows rat is an advanced and comprehensive remote access trojan (RAT) known for its extensive and intrusive capabilities. It allows full control over the infected system, enabling it to execute remote commands, manage files, and monitor user activity. Its features include keylogging to capture sensitive information such as passwords, real-time screen and webcam monitoring, and the ability to extract data from the compromised device. It can also install itself persistently to maintain access even after a reboot, evade detection by security software, and more.
 
