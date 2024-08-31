@@ -46,4 +46,14 @@ Browsers
 - OperaGX (Cookies,Passwords,Autofills,Wallets,Cards)
 
 WALLETS + PLUGINS  
-Electrum - Binance - Exodus - Atomic - Coinomi - Metamask - Mexc - Kucoin - BingX - Gate  - Over 60 plug-ins
+- Electrum 
+- Binance
+- Exodus
+- Atomic
+- Coinomi
+- Metamask
+- Mexc
+- Kucoin
+- BingX
+- Gate
+- - Over 60 plug-ins
